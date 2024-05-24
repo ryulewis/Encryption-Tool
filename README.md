@@ -1,4 +1,4 @@
-# Encryption-Tool
+# Encryption Tool
 
 ## Overview 
 The Python script provides a simple command-line interface for encrypting and decrypting files using the Fernet symmetric encryption algorithm from the cryptography library. The encryption keys are stored in an SQLite database for easy retrieval during the decryption process.
